@@ -10,7 +10,7 @@ Feature Extraction: Utilizes various NLP techniques like TF-IDF (Term Frequency-
 Modeling: Implements machine learning algorithms (e.g., Naive Bayes, Support Vector Machines, Recurrent Neural Networks) to train and classify sentiments in the reviews.
 Evaluation: Assesses the model's performance using metrics like accuracy, precision, recall, and F1-score to gauge its effectiveness in sentiment classification.
 
-**Usage: **
+**Usage:**
 
 Training the Model: Users can train the sentiment analysis model using the provided dataset or their custom datasets.
 Prediction: Enables users to input new movie reviews and get predictions regarding the sentiment expressed in the text.
